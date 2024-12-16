@@ -1,11 +1,11 @@
 {
-  "type": "new",
+  "type": "basic",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "userName": "****",
+  "password": "****",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "authorizationURL": null,
   "accessTokenURL": null,
   "oauthUserName": null,
@@ -14,8 +14,8 @@
   "customAccountFields": [
     {
       "label": "text",
-      "type": "text",
-      "value": "text123"
+      "value": "text123",
+      "type": "text"
     },
     {
       "label": "password",

@@ -2,19 +2,19 @@
   "images": [],
   "name": "Datagrid1612",
   "connectorType": "datagrid",
-  "type": "new",
+  "type": "basic",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "userName": "text",
+  "password": "okokokokok",
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
     {
       "label": "text",
-      "type": "text",
-      "value": "text123"
+      "value": "text123",
+      "type": "text"
     },
     {
       "label": "password",
